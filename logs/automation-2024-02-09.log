@@ -1,0 +1,52 @@
+12:36:11.105 [main] INFO  testCase.TC003_login - mouse hovered on New Bikes
+12:37:10.570 [main] INFO  testCase.TC003_login - clicked on upcoming Bikes
+12:37:52.324 [main] INFO  testCase.TC003_login - clicked on dropdown button of manufacturers and select honda 
+12:37:52.883 [main] INFO  testCase.TC003_login - clicked on view more to see all bikes available
+12:37:57.496 [main] INFO  testCase.TC003_login - got all the bikes which is less than 4lac with the name, price and launch date
+12:38:00.956 [main] INFO  testCase.TC003_login - reached the home page
+12:38:09.789 [main] INFO  testCase.TC003_login - mouse hovered on used Cars and selected chenai location 
+12:38:12.131 [main] INFO  testCase.TC003_login - got all the popular models and navigated back to homepage
+12:38:16.441 [main] INFO  testCase.TC003_login - clicked on login button
+12:38:21.238 [main] INFO  testCase.TC003_login - login through google and the error message is captured
+16:51:52.006 [main] INFO  testCase.TC003_login - got all the popular models and navigated back to homepage
+16:57:22.307 [main] INFO  testCase.TC003_login - got all the popular models and navigated back to homepage
+17:10:05.740 [main] INFO  testCase.TC003_login - got all the popular models and navigated back to homepage
+17:18:26.281 [main] INFO  testCase.TC001_upcomingBikes - mouse hovered on New Bikes
+17:18:59.437 [main] INFO  testCase.TC001_upcomingBikes - clicked on upcoming Bikes
+17:19:40.702 [main] INFO  testCase.TC001_upcomingBikes - clicked on dropdown button of manufacturers and select honda 
+17:19:41.470 [main] INFO  testCase.TC001_upcomingBikes - clicked on view more to see all bikes available
+17:19:48.098 [main] INFO  testCase.TC001_upcomingBikes - got all the bikes which is less than 4lac with the name, price and launch date
+17:22:50.360 [main] INFO  testCase.TC003_login - reached the home page
+17:23:03.700 [main] INFO  testCase.TC003_login - mouse hovered on used Cars and selected chenai location 
+17:23:09.214 [main] INFO  testCase.TC003_login - got all the popular models and navigated back to homepage
+17:23:14.567 [main] INFO  testCase.TC003_login - clicked on login button
+17:23:25.031 [main] INFO  testCase.TC003_login - login through google and the error message is captured
+17:27:43.463 [main] INFO  testCase.TC003_login - mouse hovered on New Bikes
+17:28:16.203 [main] INFO  testCase.TC003_login - clicked on upcoming Bikes
+17:32:40.899 [main] INFO  testCase.TC003_login - mouse hovered on New Bikes
+17:33:24.466 [main] INFO  testCase.TC003_login - reached the home page
+17:33:31.632 [main] INFO  testCase.TC003_login - mouse hovered on used Cars and selected chenai location 
+17:35:23.894 [main] INFO  testCase.TC001_upcomingBikes - mouse hovered on New Bikes
+17:35:56.618 [main] INFO  testCase.TC001_upcomingBikes - clicked on upcoming Bikes
+17:36:41.627 [main] INFO  testCase.TC001_upcomingBikes - clicked on dropdown button of manufacturers and select honda 
+17:36:41.956 [main] INFO  testCase.TC001_upcomingBikes - clicked on view more to see all bikes available
+17:36:46.760 [main] INFO  testCase.TC001_upcomingBikes - got all the bikes which is less than 4lac with the name, price and launch date
+17:37:45.432 [main] INFO  testCase.TC002_usedCars - mouse hovered on New Bikes
+17:38:17.646 [main] INFO  testCase.TC002_usedCars - clicked on upcoming Bikes
+17:38:57.745 [main] INFO  testCase.TC002_usedCars - clicked on dropdown button of manufacturers and select honda 
+17:38:58.453 [main] INFO  testCase.TC002_usedCars - clicked on view more to see all bikes available
+17:39:01.619 [main] INFO  testCase.TC002_usedCars - got all the bikes which is less than 4lac with the name, price and launch date
+17:39:04.382 [main] INFO  testCase.TC002_usedCars - reached the home page
+17:39:36.633 [main] INFO  testCase.TC002_usedCars - mouse hovered on used Cars and selected chenai location 
+17:39:39.184 [main] INFO  testCase.TC002_usedCars - got all the popular models and navigated back to homepage
+17:42:28.067 [main] INFO  testCase.TC003_login - mouse hovered on New Bikes
+17:43:00.592 [main] INFO  testCase.TC003_login - clicked on upcoming Bikes
+17:44:01.458 [main] INFO  testCase.TC003_login - clicked on dropdown button of manufacturers and select honda 
+17:44:03.395 [main] INFO  testCase.TC003_login - clicked on view more to see all bikes available
+17:44:05.993 [main] INFO  testCase.TC003_login - got all the bikes which is less than 4lac with the name, price and launch date
+17:44:18.748 [main] INFO  testCase.TC003_login - reached the home page
+17:44:45.860 [main] INFO  testCase.TC003_login - got all the popular models and navigated back to homepage
+17:46:08.856 [main] INFO  testCase.TC003_login - mouse hovered on New Bikes
+17:46:29.824 [main] INFO  testCase.TC003_login - clicked on upcoming Bikes
+17:46:38.693 [main] INFO  testCase.TC003_login - clicked on dropdown button of manufacturers and select honda 
+17:47:00.109 [main] INFO  testCase.TC003_login - clicked on view more to see all bikes available
